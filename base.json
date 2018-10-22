@@ -1,0 +1,55 @@
+[
+	{
+		"firstName" : "Витя" ,
+		"lastName" : "Афонин" ,
+		"address" : {
+			"country" : "Казахстан",
+			"city" : "Астана",
+			"streetAddress" : "Пляжная 1",
+			"postalCode" : 132012
+		},
+		"phoneNumbers" : [
+			"+7 122 923 11 33",
+			"+7 941 321 00 67",
+			"+7 131 385 13 36"
+		]
+	},
+	{
+		"firstName" : "Жанна" ,
+		"lastName" : "Петренко" ,
+		"address" : {
+			"country" : "Украина",
+			"city" : "Киев",
+			"streetAddress" : "Молодежная 18",
+			"postalCode" : 50200
+		},
+		"phoneNumbers" : []
+	},
+	{
+		"firstName" : "Геннадий" ,
+		"lastName" : "Иванчук" ,
+		"address" : {
+			"country" : "Россия",
+			"city" : "Москва",
+			"streetAddress" : " МКАД 5-й км",
+			"postalCode" : 101200
+		},
+		"phoneNumbers" : [
+			"+7 919 230 19 09",
+			"+7 910 201 29 11"
+		]
+	},
+	{
+		"firstName" : "Володя" ,
+		"lastName" : "Петров" ,
+		"address" : {
+			"country" : "Россия",
+			"city" : "Архангельск",
+			"streetAddress" : " Пугачева 5",
+			"postalCode" : 201900
+		},
+		"phoneNumbers" : [
+			"+7 999 105 10 10"
+		]
+	}
+]
